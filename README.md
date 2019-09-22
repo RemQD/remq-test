@@ -4,4 +4,5 @@ https://www.jetbrains.com/help/rider/Adding_Deleting_and_Moving_Lines.html
 
 ##### Spring-boot starter guide
 https://spring.io/guides/gs/spring-boot/
-
+https://spring.io/guides/gs/serving-web-content/
+https://www.baeldung.com/spring-dispatcherservlet
